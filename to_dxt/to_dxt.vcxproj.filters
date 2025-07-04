@@ -30,6 +30,9 @@
     <ClCompile Include="tgaloader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="encoder_bc4.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="encoder_alphadxt5.h">
@@ -42,6 +45,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="tgaloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="encoder_bc4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

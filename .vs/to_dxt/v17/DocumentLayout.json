@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\mikke\\data\\github\\to_dxt\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_bc4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|solutionrelative:to_dxt\\encoder_bc4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\miniutils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|solutionrelative:to_dxt\\miniutils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|solutionrelative:to_dxt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|solutionrelative:to_dxt\\tgaloader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\miniutils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|solutionrelative:to_dxt\\miniutils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_dxt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F178CE57-7708-424B-9E1B-3CB3A8BCAF48}|to_dxt\\to_dxt.vcxproj|solutionrelative:to_dxt\\encoder_dxt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "encoder_bc4.cpp",
+              "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_bc4.cpp",
+              "RelativeDocumentMoniker": "to_dxt\\encoder_bc4.cpp",
+              "ToolTip": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_bc4.cpp",
+              "RelativeToolTip": "to_dxt\\encoder_bc4.cpp",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAawKkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T20:46:25.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "tgaloader.cpp",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\tgaloader.cpp",
               "RelativeDocumentMoniker": "to_dxt\\tgaloader.cpp",
@@ -58,12 +75,11 @@
               "RelativeToolTip": "to_dxt\\tgaloader.cpp",
               "ViewState": "AgIAAGEAAAAAAAAAAAAawHYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T22:33:26.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:33:26.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "miniutils.cpp",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\miniutils.cpp",
               "RelativeDocumentMoniker": "to_dxt\\miniutils.cpp",
@@ -71,12 +87,11 @@
               "RelativeToolTip": "to_dxt\\miniutils.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T22:33:14.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:33:14.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "encoder_dxt.cpp",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_dxt.cpp",
               "RelativeDocumentMoniker": "to_dxt\\encoder_dxt.cpp",
@@ -84,12 +99,11 @@
               "RelativeToolTip": "to_dxt\\encoder_dxt.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T22:33:02.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:33:02.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "encoder_alphadxt5.cpp",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_alphadxt5.cpp",
               "RelativeDocumentMoniker": "to_dxt\\encoder_alphadxt5.cpp",
@@ -97,12 +111,11 @@
               "RelativeToolTip": "to_dxt\\encoder_alphadxt5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-10T22:32:57.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:32:57.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "tgaloader.h",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\tgaloader.h",
               "RelativeDocumentMoniker": "to_dxt\\tgaloader.h",
@@ -110,25 +123,24 @@
               "RelativeToolTip": "to_dxt\\tgaloader.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-10T22:32:51.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:32:51.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "miniutils.h",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\miniutils.h",
               "RelativeDocumentMoniker": "to_dxt\\miniutils.h",
               "ToolTip": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\miniutils.h",
               "RelativeToolTip": "to_dxt\\miniutils.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-10T22:32:46.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "encoder_dxt.h",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_dxt.h",
               "RelativeDocumentMoniker": "to_dxt\\encoder_dxt.h",
@@ -136,12 +148,11 @@
               "RelativeToolTip": "to_dxt\\encoder_dxt.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-10T22:32:37.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:32:37.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\main.cpp",
               "RelativeDocumentMoniker": "to_dxt\\main.cpp",
@@ -154,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "encoder_alphadxt5.h",
               "DocumentMoniker": "C:\\Users\\mikke\\data\\github\\to_dxt\\to_dxt\\encoder_alphadxt5.h",
               "RelativeDocumentMoniker": "to_dxt\\encoder_alphadxt5.h",
@@ -162,8 +173,7 @@
               "RelativeToolTip": "to_dxt\\encoder_alphadxt5.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-10T22:32:10.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T22:32:10.407Z"
             }
           ]
         }

@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="encoder_alphadxt5.cpp" />
+    <ClCompile Include="encoder_bc4.cpp" />
     <ClCompile Include="encoder_dxt.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="miniutils.cpp" />
@@ -135,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="encoder_alphadxt5.h" />
+    <ClInclude Include="encoder_bc4.h" />
     <ClInclude Include="encoder_dxt.h" />
     <ClInclude Include="miniutils.h" />
     <ClInclude Include="tgaloader.h" />
