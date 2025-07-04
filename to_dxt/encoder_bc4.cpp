@@ -165,9 +165,10 @@ void ConvertBlockToBC4(const uint16 block_in[], uint64 block_out[], uint16 uResu
 						bool allIndicesMatched = BuildIndices(uLeft, uRight, Indices, block_in, bTestingEndPointsBW);
 						fError = EvalError(uLeft, uRight, Indices, block_in, bTestingEndPointsBW);
 						const bool earlyOutOrg = earlyOut;
-						earlyOut = k>0 && allIndicesMatched && uLeft==uLeftOrg && uRight==uRightOrg;
+						earlyOut = k>0 && uLeft==uLeftOrg && uRight==uRightOrg;
 						assert((uLeft==uLeftOrg && uRight==uRightOrg) || (!earlyOut));
 						assert(earlyOut || earlyOut==earlyOutOrg);
+						assert(!(uLeft == uLeftOrg && uRight == uRightOrg) || allIndicesMatched);
 					
 						if( fError>=0 && (fError<fSmallestError || fSmallestError<0) )
 						{
