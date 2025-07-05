@@ -49,7 +49,7 @@ void ConvertBlockToBC4(const uint16 block_in[], uint64 block_out[], uint16 uResu
 			if(uMaxBW<uX) uMaxBW=uX;
 		}
 	}
-	const bool isValidCaseBW = uMinBW<uMaxBW;
+	const bool isValidCaseBW = uMinBW<=uMaxBW;
 	 
 
 	//
@@ -180,6 +180,7 @@ void ConvertBlockToBC4(const uint16 block_in[], uint64 block_out[], uint16 uResu
 							earlyOut |= fSmallestError==0.0f;
 						}
 					}
+					else earlyOut=true;
 				}
 			}
 		}
